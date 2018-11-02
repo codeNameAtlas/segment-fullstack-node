@@ -1,6 +1,6 @@
 //Initialize the Segment SDK
 var Analytics = require('analytics-node');
-var analytics = new Analytics('GYX2IipQAEV6dlIGWpRXrVQdUye27E2p');
+var analytics = new Analytics('<Segment API key>');
 
 
 //Initialize Optimizely
